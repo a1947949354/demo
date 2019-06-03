@@ -7,8 +7,3 @@
 7
 8
 9
-opopop
-a
-rtt
-c
-d
